@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "PR1DigitalAdLib"
 include(":app")
+include(":PR1DigitalAd")
